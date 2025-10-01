@@ -1,0 +1,19 @@
+1clue 1  c0625f2d21
+1clue 2  ae6270c7e5
+1clue 3  f48f35ce7c
+1clue 4  f40c81d27a
+
+2clue 1  a1d82e2923
+2clue 2  fb4f6c1a3d
+2clue 3  f8c3d384f9
+2clue 4  f4e4d9e885
+
+3clue 1  f40c038acf
+3clue 2  f6a7e12244
+3clue 3  f874975b01
+3clue 4  f61bca015d
+
+4clue 1  fb9bf40d69
+4clue 2  80bd81a098
+4clue 3  d7a517cd57
+4clue 4  fa07a315d6
